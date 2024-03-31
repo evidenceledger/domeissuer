@@ -57,7 +57,7 @@ You need an eIDAS certificate to be able to use the system. In addition you will
           <p>You need a wallet to store your LEARCredentials and present them to Relaying parties like DOME Marketplace.</p>
           <p>DOME provides a simple wallet enough for authenticating to the DOME Marketplace and performing all needed processes.</p>
           <img src="data:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAABlBMVEX///8AAABVwtN+AAABoElEQVR42uyYPXKEMAyFn4eCkiNwFI5mH81H4QiUFIxf5snALhvSZtYaVGSC8jWR9fMkPPbYY19rA2UrpmQfOb5croAZQLcOTIFcRqaw7i5nwMQigMJmRAHmcgnkyA3Y4+AWwJTCpqwGnQJ7CsfjA7dp3zpQG9KQY9j6ZczK6rsm1jhwcqmgJwX8MXiaBo5WnLEXL3rOsEpuCWD9E6IecCSLYd4AYGKgnrF0PF7TtIIrQKOyAEM+uk6gKtQdIH3X1Tis+0BhvnRaF8AMWPNJBcCYo7XZFOgLUFabFtCjo45PuS5p3z4gyWP6R21JQanPfZVJ7QP2r3dcJupXaVouZ1D8AMNcN80MLWKYpIjI9L5vugBqpQ4ZpdLFsvqiaT0A81mp5ovlCI03IJl0B6QDq5j4zIevB17KnFuvpDUVxDvp3jJwLlVV+Exp35q9AfuKLJ/tWaya9tda3Tpw3EBKJzULiws/itcNgGgDBbH0+vm+kHoCbJJI/4QaCHfAeb7qFAcUO/jcHO7aBo6LlsmDuqjUG4Ir4LHHHvt3+wkAAP//DQRXndz8xuAAAAAASUVORK5CYII=" alt="EvidenceLedger logo">
-          <h4>Scan this QR code or go in your mobile to <b>wallet.mycredential.eu</b></h4>
+          <h4>Scan this QR code or go in your mobile to <a target="_blank" href="https://wallet.mycredential.eu"><b>wallet.mycredential.eu</b></a></h4>
         </div>
       </div>
       <div class="col-lg-4 mb-5 mb-lg-0 text-center">
