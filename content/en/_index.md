@@ -70,7 +70,7 @@ Note: if you are reading this in your mobile, most probably the button wil not w
         <div class="mb-0">
           <p>Use your LEARCredential in your wallet to authenticate to a test Verifier, without user or password.</p>
           <p>In this way you can see how everything works and will become familiar with the flows.</p>
-          <a class="btn btn-lg btn-primary me-3 mb-4" target="_blank" href="https://demo.mycredential.eu/login">
+          <a class="btn btn-lg btn-primary me-3 mb-4" target="_blank" href="https://demo.mycredential.eu/">
             Go to the test Verifier
           </a>
         </div>
