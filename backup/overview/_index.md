@@ -1,7 +1,7 @@
 ---
 title: Overview
 description: Approach to Identity & Access Management (IAM).
-weight: 1
+weight: 10
 ---
 
 {{% pageinfo %}}

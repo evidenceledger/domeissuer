@@ -2,5 +2,8 @@
   "cSpell.words": [
     "Docsy",
     "Goldydocs"
-  ]
+  ],
+  "yaml.schemas": {
+    "https://json.schemastore.org/tmlanguage.json": "untitled:Untitled-1"
+  }
 }
