@@ -1,5 +1,5 @@
 ---
-title: LEARCredential (automated process)
+title: LEARCredential (digital process)
 description: >
   Creating a LEARCredential for an employee, the automated and self-service way.
 weight: 20
@@ -91,5 +91,21 @@ The Mandate in the form of a Verifiable Credential bechaves like its paper count
 For Onboarding, make sure that the employee receives at least the Onboarding power:
 
 ![Onboarding](/docs/onboarding/powers_onboarding.png)
+
+## Create a first version of the LEARCredential
+
+Press the "Create" button at the bottom of the form. This will take you to a screen with the machine-readable representation of the new LEARCredential. Do not worry, you do not have to understand this, but if you do (or somebody in your company) it is a good way to see the actual contents that will go inside the LEARCredential, before sending it to the employee.
+
+![JSON model Onboarding](/docs/onboarding/json_credential_offer.png)
+
+Click the button at the bottom of the screen to save the draft version of the credential and send a notification to the target employee via email.
+
+## List of created LEARCredentials
+
+You are taken back to the list of LEARCredentials that you have created. If this is the first time that you have created a credential, thee screen looks like the following.
+
+![List of one credential](/docs/onboarding/list_of_offers_one_credential.png)
+
+The button "View" at the left of every item allows you to review the credential, an also to send a reminder email to the target employee, in case the employee has not yet retrieved the credential.
 
 
