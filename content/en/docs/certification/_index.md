@@ -1,7 +1,7 @@
 ---
-title: Certification of services
+title: Service Certification
 description: Demonstrating that your services comply with the required official certifications.
-weight: 20
+weight: 30
 ---
 
 {{% pageinfo %}}
