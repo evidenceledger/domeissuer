@@ -29,7 +29,7 @@ You need an eIDAS certificate to be able to use the system. In addition you will
 
 Note: if you are reading this in your mobile, most probably the button wil not work, unless you have installed your eIDAS certificate in the mobile. You typically need to use a PC, with the certificate installed in the browser.
 
-<a class="btn btn-lg btn-secondary me-3 mb-4" target="_blank" href="https://issuersec.mycredential.eu">
+<a class="btn btn-lg btn-secondary me-3 mb-4" target="_blank" href="https://issuer.mycredential.eu">
   Login as Legal Representative
 </a>
 
